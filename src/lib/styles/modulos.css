@@ -1,0 +1,14 @@
+/* src/app.css o tu archivo CSS global */
+.bg-modulo-general,
+.bg-modulo-dashboard,
+.bg-modulo-usuarios,
+.bg-modulo-empresas,
+.bg-modulo-egresados,
+.bg-modulo-evaluaciones,
+.bg-modulo-postulaciones,
+.bg-modulo-practicas,
+.bg-modulo-bitacoras {
+  background: linear-gradient(rgba(248, 249, 250, 0.88), rgba(248, 249, 250, 0.88)),
+              url('/Fondo_Modulos.jpg') no-repeat center center / cover;
+  min-height: 100vh;
+}
